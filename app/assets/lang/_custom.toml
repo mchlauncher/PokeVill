@@ -1,7 +1,7 @@
 # Custom Language File for Launcher Customizer
 
 [ejs.app]
-title = "포켓빌"
+title = "포켓빌_ST"
 
 [ejs.landing]
 mediaGitHubURL = "https://cafe.naver.com/reademinecraft"
@@ -10,7 +10,7 @@ mediaInstagramURL = "#"
 mediaYouTubeURL = "#"
 mediaDiscordURL = ""
 mediaSoopURL = "#"
-mediaChzzkURL = "https://chzzk.naver.com/77172c972f3db828c970e9b63a40ae21"
+mediaChzzkURL = "https://chzzk.naver.com/1197ac8b30f9b98bb04b1a1394781daf"
 screenshotsTooltip = "스크린샷"
 
 [ejs.settings]
@@ -18,6 +18,6 @@ sourceGithubLink = "https://github.com/mchlauncher/PokeVill"
 supportLink = "https://github.com/mchlauncher/PokeVill/issues"
 
 [ejs.welcome]
-welcomeHeader = "포켓빌"
+welcomeHeader = "포켓빌_ST"
 welcomeDescription = ""
 welcomeDescCTA = "[계속] 버튼을 눌러 계속 진행하여 주세요."

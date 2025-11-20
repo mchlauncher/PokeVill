@@ -1,5 +1,5 @@
 appId: 'PokeVill'
-productName: '포켓빌'
+productName: '포켓빌_ST'
 artifactName: '${productName}-setup-${version}.${ext}'
 
 copyright: 'Copyright © 2025 gotiger (original author: © 2018-2025 Daniel Scalzi)'
